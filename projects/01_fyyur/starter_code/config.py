@@ -10,6 +10,6 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-DATABASE_URI = 'postgresql:///fyyur_db'
+SQLALCHEMY_DATABASE_URI = 'postgresql:///fyyur_db'
 
 
